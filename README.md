@@ -14,6 +14,5 @@ consult('facts.pl').
 consult('rules.pl').
 
 consult('expert.pl').
-
 test().
 ---------------------------
