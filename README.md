@@ -6,11 +6,14 @@ SWI-Prolog
 
 ### Procedure
 Open swipl in the terminal.    
-Run the following commands.  
+
+commands:-   
 ---------------------------
 consult('facts.pl').
 
 consult('rules.pl').
+
 consult('expert.pl').
+
 test().
 ---------------------------
